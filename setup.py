@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import setuptools
 
 with open("README.md", "r", encoding="utf-8") as f:
@@ -27,3 +28,5 @@ setuptools.setup(
     package_dir={"": "src"},
     packages=setuptools.find_packages(where="src")
 )
+=======
+>>>>>>> 6d625b5ffdebea79419f056f7ffb1d16c8a8e106
